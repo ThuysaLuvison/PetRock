@@ -1,6 +1,6 @@
 # 🪨 PetRock - Adote uma Pedra como Pet!
 
-Bem-vindo ao **PetRock**! 
+Bem-vindo(a) ao **PetRock**! 
 
 Um site divertido e criativo que mostra por que adotar uma pedra como animal de estimação pode ser a melhor (e mais sólida) decisão da sua vida.
 
